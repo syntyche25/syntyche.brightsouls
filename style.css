@@ -54,4 +54,8 @@ section {
 h2 {
   color: #5a4632;
 }
+.logo {
+  width: 120px;
+  margin-bottom: 15px;
+}
 
