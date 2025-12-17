@@ -58,4 +58,8 @@ h2 {
   width: 120px;
   margin-bottom: 15px;
 }
+section p {
+  line-height: 1.7;
+  font-size: 17px;
+}
 
