@@ -63,3 +63,9 @@ section p {
   font-size: 17px;
 }
 
+.action {
+  background-color: #f8f8f8;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
