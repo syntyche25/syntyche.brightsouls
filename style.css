@@ -84,10 +84,12 @@ section p {
   height: auto;
   margin-bottom: 15px;
 }
-.hero img {
+.hero-image {
   width: 100%;
-  max-height: 400px;   /* ajuste ici */
+  max-height: 300px;
   object-fit: cover;
-  border-radius: 10px;
+  filter: brightness(90%);
+  border-radius: 12px;
 }
+
 
