@@ -91,4 +91,30 @@ section p {
   border-radius: 10px;
 }
 
+.btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background: #111;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: #333;
+}
+
+.btn-outline {
+  background: transparent;
+  color: #111;
+  border: 1px solid #111;
+}
+
+.btn-outline:hover {
+  background: #111;
+  color: white;
+}
 
