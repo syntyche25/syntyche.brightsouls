@@ -80,16 +80,15 @@ section p {
   }
 }
 .logo {
-  width: 120px;   
+  width: 80px;   
   height: auto;
   margin-bottom: 15px;
 }
-.hero-image {
+.hero img {
   width: 100%;
-  max-height: 300px;
+  max-height: 300px;   
   object-fit: cover;
-  filter: brightness(90%);
-  border-radius: 12px;
+  border-radius: 10px;
 }
 
 
