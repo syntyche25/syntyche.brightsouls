@@ -119,4 +119,14 @@ section p {
   background: #111;
   color: white;
 }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #fafafa;
+  color: #111;
+  line-height: 1.7;
+}
+
+h1, h2 {
+  font-family: 'Playfair Display', serif;
+}
 
